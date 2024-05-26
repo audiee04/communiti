@@ -1,8 +1,14 @@
 {
+"scripts":{
+  "dev": "nodemon indesx.js",
+  "build": "npm i"
+}
+{
   "dependencies": {
     "express": "^4.19.2",
     "hbs": "^4.2.0",
     "mongoose": "^8.4.0",
     "nodemon": "^3.1.0"
   }
+}
 }
